@@ -1,0 +1,21 @@
+[submodule "Book1_Python-For-Beginners"]
+	path = Book1_Python-For-Beginners
+	url = https://github.com/Visualize-ML/Book1_Python-For-Beginners.git
+[submodule "Book2_Beauty-of-Data-Visualization"]
+	path = Book2_Beauty-of-Data-Visualization
+	url = https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization.git
+[submodule "Book3_Elements-of-Mathematics"]
+	path = Book3_Elements-of-Mathematics
+	url = https://github.com/Visualize-ML/Book3_Elements-of-Mathematics.git
+[submodule "Book4_Power-of-Matrix"]
+	path = Book4_Power-of-Matrix
+	url = https://github.com/Visualize-ML/Book4_Power-of-Matrix.git
+[submodule "Book5_Essentials-of-Probability-and-Statistics"]
+	path = Book5_Essentials-of-Probability-and-Statistics
+	url = https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics.git
+[submodule "Book6_First-Course-in-Data-Science"]
+	path = Book6_First-Course-in-Data-Science
+	url = https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science.git
+[submodule "Book7_Visualizations-for-Machine-Learning"]
+	path = Book7_Visualizations-for-Machine-Learning
+	url = https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning.git
